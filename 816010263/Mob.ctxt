@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Mob
+comment1.params=f\ x\ y\ handler\ id
+comment1.target=Mob(javax.swing.JFrame,\ float,\ float,\ Handler,\ ObjectId)
+comment2.params=
+comment2.target=void\ setPosition()
+comment3.params=g
+comment3.target=void\ render(java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ erase(java.awt.Graphics)
+comment5.params=
+comment5.target=java.awt.Rectangle\ getBounds()
+comment6.params=
+comment6.target=boolean\ isOffScreen()
+comment7.params=object
+comment7.target=void\ tick(java.util.LinkedList)
+comment8.params=
+comment8.target=void\ loadClips()
+comment9.params=index
+comment9.target=void\ playClip(int)
+numComments=10
